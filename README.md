@@ -1,4 +1,4 @@
-## Hola, I'm [Siva Sankar](https://github.com/sivasankarLM10) 👋
+## Hei siellä, I'm [Siva Sankar](https://github.com/sivasankarLM10) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivasankarLM10&label=Views&color=blue&style=plastic" alt="sivasankarLM10" /> </p>
 
