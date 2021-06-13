@@ -1,15 +1,5 @@
 ## Hei siellä, I'm [Siva Sankar](https://github.com/sivasankarLM10) 👋
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-<!-- Add font awesome icons -->
-<a href="#" class="fa fa-facebook"></a>
-<a href="#" class="fa fa-twitter"></a>
-
-<br/>
-<br/>
-
-
 
 - 🔭 I’m currently Studying in [Amrita](https://www.amrita.edu/).
 - 🌱 I’m currently learning more about Full Stack Web Developer.
