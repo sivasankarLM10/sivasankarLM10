@@ -1,5 +1,5 @@
 ## Hei siellä, I'm [Siva Sankar](https://github.com/sivasankarLM10) 👋👨‍💻
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iamsiva" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sivasankarLM10&label=Views&color=blue&style=plastic" alt="iamsiva" /> </p>
 
 - 🔭 I’m currently Studying in [Amrita](https://www.amrita.edu/).
 - 🌱 I’m an emerging Full Stack Web Developer.
