@@ -1,12 +1,12 @@
-## Hei siellä, I'm [Siva Sankar](https://github.com/sivasankarLM10) 👋
+## Hei siellä, I'm [Siva Sankar](https://github.com/sivasankarLM10) 👋👨‍💻
 
 
 - 🔭 I’m currently Studying in [Amrita](https://www.amrita.edu/).
-- 🌱 I’m emerging Full Stack Web Developer.
+- 🌱 I’m an emerging Full Stack Web Developer.
 - 👯 I’m looking to collaborate on Software Development
 - 💬 Ask me about any Tech related stuff.
 - ✊ A Man With Revolutionary Ideas
-- 😄 Pronouns: He/His/It
+- 😄 Articles: A/An/The
 - ⚡ I am highly perceptive and have razor sharp intuition. This does not mean that I know everything, and it does not mean that I am never wrong. But my instincts about people, events and situations are usually spot-on.
 
 **Languages and Tools:**  
