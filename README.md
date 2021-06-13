@@ -1,31 +1,15 @@
 ## Hei siellä, I'm [Siva Sankar](https://github.com/sivasankarLM10) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivasankarLM10&label=Views&color=blue&style=plastic" alt="sivasankarLM10" /> </p>
-
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">   
 <a href="#" class="fa fa-facebook"> </a>   
-</li>  
-<li>  
-<a href="#" class="fa fa-twitter"> </a>  
-</li>  
-<li>  
-<a href="#" class="fa fa-pinterest"> </a>  
-</li>  
-<li>  
-<a href="#" class="fa fa-linkedin"> </a>  
-</li>  
-<li>  
-<a href="#" class="fa fa-instagram"> </a>  
-</li>  
-<li>  
-<a href="#" class="fa fa-youtube"> </a>  
-</li>  
-<li>  
+<a href="#" class="fa fa-twitter"> </a>   
+<a href="#" class="fa fa-pinterest"> </a>   
+<a href="#" class="fa fa-linkedin"> </a>   
+<a href="#" class="fa fa-instagram"> </a>    
+<a href="#" class="fa fa-youtube"> </a>   
 <a href="#" class="fa fa-google"> </a>  
-</li>  
-<li>  
 <a href="#" class="fa fa-snapchat-ghost"> </a>  
-</li>  
-<li> 
 
 <br/>
 <br/>
