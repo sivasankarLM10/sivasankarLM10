@@ -31,7 +31,7 @@
 
 - 🔭 I’m currently Studying in [Amrita](https://www.amrita.edu/).
 - 🌱 I’m currently learning more about Full Stack Web Developer.
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral).
+- 👯 I’m looking to collaborate on Software Development
 - 💬 Ask me about any Tech related stuff.
 - ✊ A Man With Revolutionary Ideas
 - 😄 Pronouns: He/His/It
