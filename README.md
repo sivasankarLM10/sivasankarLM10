@@ -2,27 +2,30 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivasankarLM10&label=Views&color=blue&style=plastic" alt="sivasankarLM10" /> </p>
 
-<a href="https://twitter.com/imthepk">
-  <img align="left" alt="Siva's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://linkedin.com/in/imthepk">
-  <img align="left" alt="Siva's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/sivasankarLM10">
-  <img align="left" alt="Siva's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/imthepk">
-  <img align="left" alt="Siva's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://instagram.com/codepur_ka_superhero/">
-  <img align="left" alt="Siva's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/imthepk/">
-  <img align="left" alt="Siva's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.youtube.com/mtechviral/">
-  <img align="left" alt="Siva's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
+<a href="#" class="fa fa-facebook"> </a>   
+</li>  
+<li>  
+<a href="#" class="fa fa-twitter"> </a>  
+</li>  
+<li>  
+<a href="#" class="fa fa-pinterest"> </a>  
+</li>  
+<li>  
+<a href="#" class="fa fa-linkedin"> </a>  
+</li>  
+<li>  
+<a href="#" class="fa fa-instagram"> </a>  
+</li>  
+<li>  
+<a href="#" class="fa fa-youtube"> </a>  
+</li>  
+<li>  
+<a href="#" class="fa fa-google"> </a>  
+</li>  
+<li>  
+<a href="#" class="fa fa-snapchat-ghost"> </a>  
+</li>  
+<li> 
 
 <br/>
 <br/>
