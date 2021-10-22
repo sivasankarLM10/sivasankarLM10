@@ -25,6 +25,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sivasankarLM10&theme=dark" alt="sivasankarLM10" /></p>
 <div align="center">
   
-### Show some ❤️ by starring some of my repositories!
   
 </div>
