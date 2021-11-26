@@ -3,12 +3,8 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+Am+A+Designer;I+Am+A+Free+lancer;I+Am+A+Programmer;&center=true&width=500&height=50"></a>
 
 - 🔭 I’m currently Studying in [Amrita](https://www.amrita.edu/).
-- 🌱 I’m an emerging Full Stack Web Developer.
-- 👯 I’m looking to collaborate on Software Development.
+- 🌱 I’m an emerging Web Developer.
 - 💬 Ask me about any Tech related stuff.
-- ✊ A Man With Revolutionary Ideas.
-- 😄 Sometimes My Genius… It's Almost Frightening.
-- ⚡ I am highly perceptive and have razor sharp intuition. This does not mean that I know everything, and it does not mean that I am never wrong. But my instincts about people, events and situations are usually spot-on.
 
 **Languages and Tools:**  
 
