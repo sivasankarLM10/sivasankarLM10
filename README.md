@@ -1,7 +1,7 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<video autoplay loop muted playsinline>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" type="video/mp4">
-</video>
+<br>
+
+![Header](./github-header-image.png)
+
 <br>
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+a+Designer;I+am+a+Free+lancer;I+am+a+Programmer;&center=true&width=500&height=50"></a>
@@ -15,7 +15,7 @@ siva37sankar@s37.local:~@ neofetch
            "$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"              -------------------
         "$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"           OS: GNU/Linux
       "$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"         Uptime: 20 years
-    "$$$$$$$$$v^r_P0$$$$$$$$$$$$$$$$$$$$v^r_P0$$$$$$$$$"       Packages: Python, C++, Java, JS, ..
+    "$$$$$$$$$v^r_P0$$$$$$$$$$$$$$$$$$$$v^r_P0$$$$$$$$$"       Packages: Python, C++, C, Java, JS, Flutter, Mysql..
    "0$$$$$$$$"      [~SANKAR INDUSTRIES~]    "$$$$$$$$$$"      Shell: Bash
   "$$$$$$$$$$"                               "$$$$$$$$$$$"     Editors: VSCode, Sublime Text, JetBrains
  "$$$$$$$$$$$"                               "$$$$$$$$$$$$"    Crontab: Coding, Reversing, Hardware, Forensics
@@ -34,7 +34,7 @@ siva37sankar@s37.local:~@ neofetch
         "$$$$$$$$$$$$$"             "$$$$$$$$$$$$$$"           🔭 I’m currently Studying in Amrita.
           "$$$$$$$$$$$"             "$$$$$$$$$$$$"             💬 Ask me about any Tech related stuff.
               "$$$$$$$"             "$$$$$$$$"                 📊 Email is older than World Wide Web.
-                 "$$$$"             "$$$$"                     
+                 "$$$$"             "$$$$"                     😍 Made with Love ❤️.
 ```
 <br>
 <summary><b>Languages and Tools</b></summary> 
@@ -55,6 +55,7 @@ siva37sankar@s37.local:~@ neofetch
 <br>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sivasankarLM10&theme=dark" alt="sivasankarLM10" /></p>
+
 <p>They: <b>"You can't hear pictures"</b></p>
 <p>Me:</p>
 <br>
