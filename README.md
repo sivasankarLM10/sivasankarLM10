@@ -15,8 +15,8 @@ siva37sankar@s37.local:~@ neofetch
            "$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"              -------------------
         "$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"           OS: GNU/Linux
       "$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"         Uptime: 20 years
-    "$$$$$$$$$v^r_P0$$$$$$$$$$$$$$$$$$$$v^r_P0$$$$$$$$$"       Packages: Python, C++, C, Java, JS, Flutter, Mysql..
-   "0$$$$$$$$"      [~SANKAR INDUSTRIES~]    "$$$$$$$$$$"      Shell: Bash
+    "$$$$$$$$$v^r_P0$$$$$$$$$$$$$$$$$$$$v^r_P0$$$$$$$$$"       Packages: Python, C++, NodeJS, Java, React, Flutter, Mysql..
+   "$$$$$$$$$"      [~SANKAR INDUSTRIES~]    "$$$$$$$$$$"      Shell: Bash
   "$$$$$$$$$$"                               "$$$$$$$$$$$"     Editors: VSCode, Sublime Text, JetBrains
  "$$$$$$$$$$$"                               "$$$$$$$$$$$$"    Crontab: Coding, Reversing, Hardware, Forensics
 "$$$$$$$$$$$"                                 "$$$$$$$$$$$"    Home: Trivandrum, Kerala
@@ -27,7 +27,7 @@ siva37sankar@s37.local:~@ neofetch
 "$$$$$$$$$$$"                                  "$$$$$$$$$$$"   Discord: Siva Sankar#9440
 "#$$$$$$$$$$$"                                "$$$$$$$$$$$"    Email: siva37sankar@gmail.com
  "$$$$$$$$$$$$$$"                          "$$$$$$$$$$$$$$"    Github: sivasankarLM10
-  "$$$$$   $$$$$$$$$$"                "$$$$$$$$$$$$$$$$$$"     Role: Member @teambi0s
+  "$$$$$   $$$$$$$$$$"                "$$$$$$$$$$$$$$$$$$"     Role: Undergraduate Researcher @teambi0s
    "$$$$$$$  $$$$$$$$$$"            "$$$$$$$$$$$$$$$$$$$"      
     "$$$$$$$   $$$$$$$$"            "$$$$$$$$$$$$$$$$$$"       about me
       "$$$$$$                       "$$$$$$$$$$$$$$$$"         ------------------
