@@ -1,8 +1,6 @@
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+a+Designer;I+am+a+Free+lancer;I+am+a+Programmer;&center=true&width=200&height=50"></a>
 <br>
 
-![Header](./github-header-image.png)
-
-<br>
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+a+Designer;I+am+a+Free+lancer;I+am+a+Programmer;&center=true&width=500&height=50"></a>
 <br>
@@ -13,12 +11,12 @@ siva37sankar@s37.local:~@ neofetch
                    [~SANKAR INDUSTRIES~]                   
               "[$$$$$$$$$$$$$$$$$$$$$$$$$$$$]"                 siva37sankar@s37.local
            "$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"              -------------------
-        "$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"           OS: GNU/Linux
+        "$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"           OS: Windows/GNU/Linux
       "$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"         Uptime: 20 years
     "$$$$$$$$$v^r_P0$$$$$$$$$$$$$$$$$$$$v^r_P0$$$$$$$$$"       Packages: Python, C++, NodeJS, Java, React, Flutter, Mysql..
    "$$$$$$$$$"      [~SANKAR INDUSTRIES~]    "$$$$$$$$$$"      Shell: Bash
   "$$$$$$$$$$"                               "$$$$$$$$$$$"     Editors: VSCode, Sublime Text, JetBrains
- "$$$$$$$$$$$"                               "$$$$$$$$$$$$"    Crontab: Coding, Reversing, Hardware, Forensics
+ "$$$$$$$$$$$"                               "$$$$$$$$$$$$"    Crontab: Front-End, Reversing, Hardware 
 "$$$$$$$$$$$"                                 "$$$$$$$$$$$"    Home: Trivandrum, Kerala
 "$$$$$$$$$$"                                   "$$$$$$$$$$$"    
 "$$$$$$$$$$"                                    "$$$$$$$$$$"   contact information
