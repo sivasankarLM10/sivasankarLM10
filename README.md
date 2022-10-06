@@ -22,7 +22,7 @@ siva37sankar@s37.local:~@ neofetch
 "$$$$$$$$$$$"                                  "$$$$$$$$$$$"   Discord: Siva Sankar#9440
 "#$$$$$$$$$$$"                                "$$$$$$$$$$$"    Email: siva37sankar@gmail.com
  "$$$$$$$$$$$$$$"                          "$$$$$$$$$$$$$$"    Github: sivasankarLM10
-  "$$$$$   $$$$$$$$$$"                "$$$$$$$$$$$$$$$$$$"     Role: Undergraduate Researcher @teambi0s
+  "$$$$$   $$$$$$$$$$"                "$$$$$$$$$$$$$$$$$$"     Role: SWE intern @Microsoft
    "$$$$$$$  $$$$$$$$$$"            "$$$$$$$$$$$$$$$$$$$"      
     "$$$$$$$   $$$$$$$$"            "$$$$$$$$$$$$$$$$$$"       about me
       "$$$$$$                       "$$$$$$$$$$$$$$$$"         ------------------
