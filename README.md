@@ -5,31 +5,31 @@
 ```console
 siva37sankar@s37.local:~@ neofetch
 
-                   [~SANKAR INDUSTRIES~]                   
+                    [~SANKAR INDUSTRIES~]                   
               "[$$$$$$$$$$$$$$$$$$$$$$$$$$$$]"                 siva37sankar@s37.local
            "$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"              -------------------
         "$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"           OS: Windows/GNU/Linux
       "$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"         Uptime: 20 years
     "$$$$$$$$$v^r_P0$$$$$$$$$$$$$$$$$$$$v^r_P0$$$$$$$$$"       Packages: Python, C++, NodeJS, Java, React, Flutter, Mysql..
-   "$$$$$$$$$"      [~SANKAR INDUSTRIES~]    "$$$$$$$$$$"      Shell: Bash
+   "$$$$$$$$$"      [~SANKAR INDUSTRIES~]    "$$$$$$$$$$"      Shell: Bash,ZSH
   "$$$$$$$$$$"                               "$$$$$$$$$$$"     Editors: VSCode, Sublime Text, JetBrains
- "$$$$$$$$$$$"                               "$$$$$$$$$$$$"    Crontab: Front-End, Reversing, Hardware 
+ "$$$$$$$$$$$"                               "$$$$$$$$$$$$"    Crontab: Front-End, Full Stack
 "$$$$$$$$$$$"                                 "$$$$$$$$$$$"    Home: Trivandrum, Kerala
 "$$$$$$$$$$"                                   "$$$$$$$$$$$"    
-"$$$$$$$$$$"                                    "$$$$$$$$$$"   contact information
+"$$$$$$$$$$"                                    "$$$$$$$$$$"   Contact information
 "$$$$$$$$$$"                                    "$$$$$$$$$$"   -------------------
 "$$$$$$$$$$"                                    "$$$$$$$$$$"   Website: sivasankarlm10.github.io/sankarindustries
 "$$$$$$$$$$$"                                  "$$$$$$$$$$$"   Discord: Siva Sankar#9440
 "#$$$$$$$$$$$"                                "$$$$$$$$$$$"    Email: siva37sankar@gmail.com
  "$$$$$$$$$$$$$$"                          "$$$$$$$$$$$$$$"    Github: sivasankarLM10
-  "$$$$$   $$$$$$$$$$"                "$$$$$$$$$$$$$$$$$$"     Role: SWE intern @Microsoft
+  "$$$$$   $$$$$$$$$$"                "$$$$$$$$$$$$$$$$$$"     Role: SWE intern @ Microsoft
    "$$$$$$$  $$$$$$$$$$"            "$$$$$$$$$$$$$$$$$$$"      
-    "$$$$$$$   $$$$$$$$"            "$$$$$$$$$$$$$$$$$$"       about me
+    "$$$$$$$   $$$$$$$$"            "$$$$$$$$$$$$$$$$$$"       About me
       "$$$$$$                       "$$$$$$$$$$$$$$$$"         ------------------
         "$$$$$$$$$$$$$"             "$$$$$$$$$$$$$$"           🔭 I’m currently Studying in Amrita.
           "$$$$$$$$$$$"             "$$$$$$$$$$$$"             💬 Ask me about any Tech related stuff.
-              "$$$$$$$"             "$$$$$$$$"                 📊 Email is older than World Wide Web.
-                 "$$$$"             "$$$$"                     😍 Made with Love ❤️.
+             "$$$$$$$$"             "$$$$$$$$$"                📊 Email is older than World Wide Web.
+               "$$$$$$"             "$$$$$$"                   😍 Made with Love ❤️.
 ```
 <br>
 <summary><b>Languages and Tools</b></summary> 
