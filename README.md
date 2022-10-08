@@ -8,13 +8,13 @@ siva37sankar@s37.local:~@ neofetch
                     [~SANKAR INDUSTRIES~]                   
               "[$$$$$$$$$$$$$$$$$$$$$$$$$$$$]"                 siva37sankar@s37.local
            "$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"              -------------------
-        "$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"           OS: Windows/GNU/Linux
+        "$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"           OS: Windows/Linux
       "$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"         Uptime: 20 years
     "$$$$$$$$$v^r_P0$$$$$$$$$$$$$$$$$$$$v^r_P0$$$$$$$$$"       Packages: Python,C++,NodeJS,Java,React,Flutter,Mysql
    "$$$$$$$$$"      [~SANKAR INDUSTRIES~]    "$$$$$$$$$$"      Shell: Bash,ZSH
-  "$$$$$$$$$$"                               "$$$$$$$$$$$"     Editors: VSCode, Sublime Text, JetBrains
- "$$$$$$$$$$$"                               "$$$$$$$$$$$$"    Crontab: Front-End, Full Stack
-"$$$$$$$$$$$"                                 "$$$$$$$$$$$"    Home: Trivandrum, Kerala
+  "$$$$$$$$$$"                               "$$$$$$$$$$$"     Editors: VSCode,Sublime Text,JetBrains
+ "$$$$$$$$$$$"                               "$$$$$$$$$$$$"    Crontab: Front-End,Full Stack
+"$$$$$$$$$$$"                                 "$$$$$$$$$$$"    Home: Trivandrum,Kerala
 "$$$$$$$$$$"                                   "$$$$$$$$$$$"    
 "$$$$$$$$$$"                                    "$$$$$$$$$$"   Contact information
 "$$$$$$$$$$"                                    "$$$$$$$$$$"   -------------------
@@ -29,7 +29,7 @@ siva37sankar@s37.local:~@ neofetch
         "$$$$$$$$$$$$$"             "$$$$$$$$$$$$$$"           🔭 I’m currently developing apps.
           "$$$$$$$$$$$"             "$$$$$$$$$$$$"             💬 Ask me about any Tech related stuff.
              "$$$$$$$$"             "$$$$$$$$$"                📊 Email is older than World Wide Web.
-               "$$$$$$"             "$$$$$$"                   😍 Made with Love ❤️.
+               "$$$$$$"             "$$$$$$"                   😍 Your support makes me unstoppable ❤️.
 ```
 <br>
 <summary><b>Languages and Tools</b></summary> 
