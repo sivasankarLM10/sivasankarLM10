@@ -10,7 +10,7 @@ siva37sankar@s37.local:~@ neofetch
            "$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"              -------------------
         "$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"           OS: Windows/GNU/Linux
       "$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"         Uptime: 20 years
-    "$$$$$$$$$v^r_P0$$$$$$$$$$$$$$$$$$$$v^r_P0$$$$$$$$$"       Packages: Python, C++, NodeJS, Java, React, Flutter, Mysql..
+    "$$$$$$$$$v^r_P0$$$$$$$$$$$$$$$$$$$$v^r_P0$$$$$$$$$"       Packages: Python,C++,NodeJS,Java,React,Flutter,Mysql
    "$$$$$$$$$"      [~SANKAR INDUSTRIES~]    "$$$$$$$$$$"      Shell: Bash,ZSH
   "$$$$$$$$$$"                               "$$$$$$$$$$$"     Editors: VSCode, Sublime Text, JetBrains
  "$$$$$$$$$$$"                               "$$$$$$$$$$$$"    Crontab: Front-End, Full Stack
@@ -22,11 +22,11 @@ siva37sankar@s37.local:~@ neofetch
 "$$$$$$$$$$$"                                  "$$$$$$$$$$$"   Discord: Siva Sankar#9440
 "#$$$$$$$$$$$"                                "$$$$$$$$$$$"    Email: siva37sankar@gmail.com
  "$$$$$$$$$$$$$$"                          "$$$$$$$$$$$$$$"    Github: sivasankarLM10
-  "$$$$$   $$$$$$$$$$"                "$$$$$$$$$$$$$$$$$$"     Role: SWE intern @ Microsoft
+  "$$$$$   $$$$$$$$$$"                "$$$$$$$$$$$$$$$$$$"     Role: UG student @Amrita
    "$$$$$$$  $$$$$$$$$$"            "$$$$$$$$$$$$$$$$$$$"      
     "$$$$$$$   $$$$$$$$"            "$$$$$$$$$$$$$$$$$$"       About me
       "$$$$$$                       "$$$$$$$$$$$$$$$$"         ------------------
-        "$$$$$$$$$$$$$"             "$$$$$$$$$$$$$$"           🔭 I’m currently Studying in Amrita.
+        "$$$$$$$$$$$$$"             "$$$$$$$$$$$$$$"           🔭 I’m currently developing apps.
           "$$$$$$$$$$$"             "$$$$$$$$$$$$"             💬 Ask me about any Tech related stuff.
              "$$$$$$$$"             "$$$$$$$$$"                📊 Email is older than World Wide Web.
                "$$$$$$"             "$$$$$$"                   😍 Made with Love ❤️.
