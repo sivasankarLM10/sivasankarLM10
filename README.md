@@ -22,7 +22,7 @@ siva37sankar@s37.local:~@ neofetch
    "$$$$$$$  $$$$$$$$$$"            "$$$$$$$$$$$$$$$$$$$"      
     "$$$$$$$   $$$$$$$$"            "$$$$$$$$$$$$$$$$$$"       About me
       "$$$$$$                       "$$$$$$$$$$$$$$$$"         ------------------
-        "$$$$$$$$$$$$$"             "$$$$$$$$$$$$$$"           🔭 I’m currently developing apps.
+        "$$$$$$$$$$$$$"             "$$$$$$$$$$$$$$"           🔭 I’m currently developing apps
           "$$$$$$$$$$$"             "$$$$$$$$$$$$"             💬 Ask me about any Tech related stuff.
              "$$$$$$$$"             "$$$$$$$$$"                📊 Email is older than World Wide Web.
                "$$$$$$"             "$$$$$$"                   😍 Your support makes me unstoppable ❤️
