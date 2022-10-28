@@ -9,22 +9,22 @@ siva37sankar@s37.local:~@ neofetch
     "$$$$$$$$$v^r_P0$$$$$$$$$$$$$$$$$$$$v^r_P0$$$$$$$$$"       Packages: Python,C++,NodeJS,Java,React,Flutter,Mysql
    "$$$$$$$$$"      [~SANKAR INDUSTRIES~]    "$$$$$$$$$$"      Shell: Bash,ZSH
   "$$$$$$$$$$"                               "$$$$$$$$$$$"     Editors: VSCode,Sublime Text,JetBrains
- "$$$$$$$$$$$"                               "$$$$$$$$$$$$"    Crontab: Front-End,Full Stack
+ "$$$$$$$$$$$"                               "$$$$$$$$$$$$"    Crontab: Full Stack Developer
 "$$$$$$$$$$$"                                 "$$$$$$$$$$$"    Home: Trivandrum,Kerala
 "$$$$$$$$$$"                                   "$$$$$$$$$$$"    
 "$$$$$$$$$$"                                    "$$$$$$$$$$"   Contact information
 "$$$$$$$$$$"                                    "$$$$$$$$$$"   -------------------
-"$$$$$$$$$$"                                    "$$$$$$$$$$"   Website: sivasankarlm10.github.io/sankarindustries
+"$$$$$$$$$$"                                    "$$$$$$$$$$"   Website: sankarindustries.me
 "$$$$$$$$$$$"                                  "$$$$$$$$$$$"   Discord: Siva Sankar#9440
 "#$$$$$$$$$$$"                                "$$$$$$$$$$$$"   Email: siva37sankar@gmail.com
- "$$$$$$$$$$$$$$"                          "$$$$$$$$$$$$$$"    Github: sivasankarLM10
+ "$$$$$$$$$$$$$$"                          "$$$$$$$$$$$$$$"    GitLab: sivasankarLM10
   "$$$$$   $$$$$$$$$$"                "$$$$$$$$$$$$$$$$$$"     Role: UG student @Amrita
    "$$$$$$$  $$$$$$$$$$"            "$$$$$$$$$$$$$$$$$$$"      
     "$$$$$$$   $$$$$$$$"            "$$$$$$$$$$$$$$$$$$"       About me
       "$$$$$$                       "$$$$$$$$$$$$$$$$"         ------------------
         "$$$$$$$$$$$$$"             "$$$$$$$$$$$$$$"           🔭 I’m currently developing apps
           "$$$$$$$$$$$"             "$$$$$$$$$$$$"             💬 Ask me about any Tech related stuff
-             "$$$$$$$$"             "$$$$$$$$$"                📊 Email is older than World Wide Web.
+             "$$$$$$$$"             "$$$$$$$$$"                📊 Email is older than World Wide Web
                "$$$$$$"             "$$$$$$"                   😍 Your support makes me unstoppable ❤️
 ```
 <br>
