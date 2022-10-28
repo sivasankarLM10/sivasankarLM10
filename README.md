@@ -25,7 +25,7 @@ siva37sankar@s37.local:~@ neofetch
         "$$$$$$$$$$$$$"             "$$$$$$$$$$$$$$"           🔭 I’m currently developing apps.
           "$$$$$$$$$$$"             "$$$$$$$$$$$$"             💬 Ask me about any Tech related stuff.
              "$$$$$$$$"             "$$$$$$$$$"                📊 Email is older than World Wide Web.
-               "$$$$$$"             "$$$$$$"                   😍 Your support makes me unstoppable ❤️.
+               "$$$$$$"             "$$$$$$"                   😍 Your support makes me unstoppable ❤️
 ```
 <br>
 <summary><b>Languages and Tools</b></summary> 
