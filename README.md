@@ -28,9 +28,34 @@ siva37sankar@s37.local:~@ neofetch
                "$$$$$$"             "$$$$$$"                   😍 Your support makes me unstoppable ❤️
 ```
 <br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 <summary><b>Languages and Tools</b></summary> 
 <br>
-<p><a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p> 
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=C%2B%2B&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=black)&nbsp;
+![HTML](https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![dart](https://img.shields.io/badge/dart-3178C6.svg?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
+![flutter](https://img.shields.io/badge/Flutter-3178C6.svg?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
+![Shell](https://img.shields.io/badge/-Shell-FFCA28?style=for-the-badge&logo=shell&logoColor=black)&nbsp;
+![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![firebase](https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
+![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
+![reactjs](https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)&nbsp;
+![virtualbox](https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)&nbsp;
+![ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+![manjaro](https://img.shields.io/badge/manjaro-green.svg?style=for-the-badge&logo=manjaro&logoColor=white)&nbsp;
+![linux](https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)&nbsp;
+<p  align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
 <br>
 <summary><b>Github Profile Details</b></summary>
 <br>
@@ -41,9 +66,12 @@ siva37sankar@s37.local:~@ neofetch
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sivasankarLM10&theme=radical&hide_border=true" />
   </a>
 <br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
+
 <!-- GRAPH IN PAST YEAR -->
 <img width=100% src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sivasankarLM10&theme=2077" alt="Github Profile Details" align = "center"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sivasankarLM10&theme=2077)
@@ -53,14 +81,15 @@ siva37sankar@s37.local:~@ neofetch
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sivasankarLM10&theme=2077&utcOffset=8)
 
 <br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">
     <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sivasankarLM10&custom_title=Sivasankar's%20Contribution%20Graph&title_color=ffffff&icon_color=ffffff&text_color=b2b2b2&bg_color=000000&line=FFEEEE&point=bd6168&hide_border=true">
 </div>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <p>They: <b>"You can't hear pictures"</b></p>
 <p>Me:</p>
 <br>
 
 ![Alt Text](https://tenor.com/view/siu-cris-gif-24129549.gif)
-
