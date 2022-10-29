@@ -53,7 +53,11 @@ siva37sankar@s37.local:~@ neofetch
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sivasankarLM10&theme=2077&utcOffset=8)
 
 <br>
+<div align="center">
+    <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sivasankarLM10&custom_title=Sivasankar's%20Contribution%20Graph&title_color=ffffff&icon_color=ffffff&text_color=b2b2b2&bg_color=000000&line=FFEEEE&point=bd6168&hide_border=true">
+</div>
 
+<br>
 <p>They: <b>"You can't hear pictures"</b></p>
 <p>Me:</p>
 <br>
