@@ -84,8 +84,11 @@ siva37sankar@s37.local:~@ neofetch
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-    <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sivasankarLM10&custom_title=Sivasankar's%20Contribution%20Graph&title_color=ffffff&icon_color=ffffff&text_color=b2b2b2&bg_color=000000&line=FFEEEE&point=bd6168&hide_border=true">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 </div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <p>They: <b>"You can't hear pictures"</b></p>
