@@ -90,9 +90,3 @@ siva37sankar@s37.local:~@ neofetch
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<p>They: <b>"You can't hear pictures"</b></p>
-<p>Me:</p>
-<br>
-
-![Alt Text](https://tenor.com/view/siu-cris-gif-24129549.gif)
