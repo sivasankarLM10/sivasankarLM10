@@ -5,7 +5,7 @@ siva37sankar@s37.local:~@ neofetch
               "[$$$$$$$$$$$$$$$$$$$$$$$$$$$$]"                 siva37sankar@s37.local
            "$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"              -------------------
         "$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"           OS: Windows/Linux
-      "$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"         Uptime: 20 years
+      "$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"         Uptime: 21 years
     "$$$$$$$$$v^r_P0$$$$$$$$$$$$$$$$$$$$v^r_P0$$$$$$$$$"       Packages: Python,C++,NodeJS,Java,React,Flutter,Mysql
    "$$$$$$$$$"      [~SANKAR INDUSTRIES~]    "$$$$$$$$$$"      Shell: Bash,ZSH
   "$$$$$$$$$$"                               "$$$$$$$$$$$"     Editors: VSCode,Sublime Text,JetBrains
